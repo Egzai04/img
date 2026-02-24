@@ -1,5 +1,6 @@
 streamlit
-python-dotenv
+huggingface_hub
+Pillow
+requests
 langchain
 langchain-huggingface
-huggingface_hub
